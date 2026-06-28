@@ -1,4 +1,4 @@
-.hero{background:linear-gradient(135deg,#F19E39,hsl(261, 51%, 51%));color:#000;padding:6rem 0}
+.hero{background:linear-gradient(135deg,#F19E39,#b0742a);color:#000;padding:6rem 0}
 .card{border:none;box-shadow:0 8px 24px rgba(0,0,0,.08)}
 .navbar-brand img {
     height: 50px;
